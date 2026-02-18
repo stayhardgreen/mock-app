@@ -1,0 +1,63 @@
+[
+  {
+    "id": "po_9001",
+    "poNumber": "PO-9001",
+    "vendorId": "ven_001",
+    "status": "open",
+    "createdDate": "2026-01-25",
+    "expectedDate": "2026-02-15",
+    "total": 980.5,
+    "lineItems": [
+      {
+        "id": "pol_1",
+        "partId": "prt_1001",
+        "qty": 2,
+        "unitCost": 189.5,
+        "receivedQty": 0
+      },
+      {
+        "id": "pol_2",
+        "partId": "prt_1009",
+        "qty": 10,
+        "unitCost": 56.0,
+        "receivedQty": 4
+      }
+    ]
+  },
+  {
+    "id": "po_9002",
+    "poNumber": "PO-9002",
+    "vendorId": "ven_003",
+    "status": "partial",
+    "createdDate": "2026-02-03",
+    "expectedDate": "2026-02-10",
+    "total": 216.0,
+    "lineItems": [
+      {
+        "id": "pol_3",
+        "partId": "prt_1002",
+        "qty": 1200,
+        "unitCost": 0.18,
+        "receivedQty": 600
+      }
+    ]
+  },
+  {
+    "id": "po_9003",
+    "poNumber": "PO-9003",
+    "vendorId": "ven_004",
+    "status": "late",
+    "createdDate": "2025-08-20",
+    "expectedDate": "2025-09-10",
+    "total": 148.5,
+    "lineItems": [
+      {
+        "id": "pol_4",
+        "partId": "prt_1005",
+        "qty": 2,
+        "unitCost": 74.25,
+        "receivedQty": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "mode": "full_list",
+  "pagination": {
+    "pageSize": 25
+  },
+  "failureRate": 0.0,
+  "readOnly": false,
+  "latencyMs": {
+    "min": 100,
+    "max": 600
+  }
+}

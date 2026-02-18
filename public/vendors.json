@@ -1,0 +1,188 @@
+[
+  {
+    "id": "ven_001",
+    "name": "JYH Technologies",
+    "status": "active",
+    "rating": 4.6,
+    "leadTimeDaysTypical": 12,
+    "country": "US",
+    "city": "Charlotte, NC",
+    "lastOrderDate": "2026-01-28",
+    "tags": [
+      "electronics",
+      "fast-ship"
+    ],
+    "contact": {
+      "name": "Avery Chen",
+      "email": "orders@jyhtech.example",
+      "phone": "+1-704-555-0134"
+    }
+  },
+  {
+    "id": "ven_002",
+    "name": "1stVision Components",
+    "status": "active",
+    "rating": 4.2,
+    "leadTimeDaysTypical": 18,
+    "country": "CA",
+    "city": "Calgary, AB",
+    "lastOrderDate": "2025-12-19",
+    "tags": [
+      "optics"
+    ],
+    "contact": {
+      "name": "Mina Patel",
+      "email": "sales@1stvision.example",
+      "phone": "+1-587-555-0199"
+    }
+  },
+  {
+    "id": "ven_003",
+    "name": "Northstar Fasteners",
+    "status": "active",
+    "rating": 4.9,
+    "leadTimeDaysTypical": 6,
+    "country": "US",
+    "city": "Cleveland, OH",
+    "lastOrderDate": "2026-02-05",
+    "tags": [
+      "fasteners",
+      "preferred"
+    ],
+    "contact": {
+      "name": "Jordan Reyes",
+      "email": "quotes@northstar.example",
+      "phone": "+1-216-555-0147"
+    }
+  },
+  {
+    "id": "ven_004",
+    "name": "Blue River Metals",
+    "status": "inactive",
+    "rating": 3.8,
+    "leadTimeDaysTypical": 25,
+    "country": "US",
+    "city": "Pittsburgh, PA",
+    "lastOrderDate": "2025-09-02",
+    "tags": [
+      "raw-materials"
+    ],
+    "contact": {
+      "name": "Sam Nguyen",
+      "email": "support@blueriver.example",
+      "phone": "+1-412-555-0122"
+    }
+  },
+  {
+    "id": "ven_005",
+    "name": "Acme Industrial Supply",
+    "status": "active",
+    "rating": 4.0,
+    "leadTimeDaysTypical": 14,
+    "country": "US",
+    "city": "Denver, CO",
+    "lastOrderDate": "2026-01-03",
+    "tags": [
+      "general"
+    ],
+    "contact": {
+      "name": "Riley Smith",
+      "email": "hello@acmeindustrial.example",
+      "phone": "+1-303-555-0111"
+    }
+  },
+  {
+    "id": "ven_006",
+    "name": "KTS Manufacturing Partners",
+    "status": "active",
+    "rating": 4.7,
+    "leadTimeDaysTypical": 9,
+    "country": "US",
+    "city": "Austin, TX",
+    "lastOrderDate": "2026-02-09",
+    "tags": [
+      "cnc",
+      "preferred"
+    ],
+    "contact": {
+      "name": "Taylor Brooks",
+      "email": "purchasing@ktsmp.example",
+      "phone": "+1-512-555-0188"
+    }
+  },
+  {
+    "id": "ven_007",
+    "name": "Omega Plastics",
+    "status": "active",
+    "rating": 4.1,
+    "leadTimeDaysTypical": 21,
+    "country": "MX",
+    "city": "Monterrey",
+    "lastOrderDate": "2025-11-11",
+    "tags": [
+      "plastics",
+      "molding"
+    ],
+    "contact": {
+      "name": "Lucía Gómez",
+      "email": "ventas@omegaplastics.example",
+      "phone": "+52-81-5555-0101"
+    }
+  },
+  {
+    "id": "ven_008",
+    "name": "Zenith Sensors",
+    "status": "active",
+    "rating": 4.4,
+    "leadTimeDaysTypical": 16,
+    "country": "US",
+    "city": "San Jose, CA",
+    "lastOrderDate": "2026-01-15",
+    "tags": [
+      "sensors",
+      "electronics"
+    ],
+    "contact": {
+      "name": "Morgan Lee",
+      "email": "orders@zenithsensors.example",
+      "phone": "+1-408-555-0166"
+    }
+  },
+  {
+    "id": "ven_009",
+    "name": "Budget Bearings",
+    "status": "active",
+    "rating": 3.5,
+    "leadTimeDaysTypical": 10,
+    "country": "US",
+    "city": "Phoenix, AZ",
+    "lastOrderDate": null,
+    "tags": [
+      "bearings"
+    ],
+    "contact": {
+      "name": "Casey Hill",
+      "email": "quotes@budgetbearings.example",
+      "phone": "+1-602-555-0175"
+    }
+  },
+  {
+    "id": "ven_010",
+    "name": "Rapid Proto Lab",
+    "status": "active",
+    "rating": 4.3,
+    "leadTimeDaysTypical": 4,
+    "country": "US",
+    "city": "Seattle, WA",
+    "lastOrderDate": "2026-02-01",
+    "tags": [
+      "prototype",
+      "fast-ship"
+    ],
+    "contact": {
+      "name": "Jamie Park",
+      "email": "rfq@rapidproto.example",
+      "phone": "+1-206-555-0109"
+    }
+  }
+]
